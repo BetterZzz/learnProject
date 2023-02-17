@@ -12,7 +12,7 @@
   </properties>
 
   <modules>
-    <module>aopDemo</module>
+    <module>aop-demo</module>
   </modules>
 
   <parent>
